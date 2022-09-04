@@ -1,0 +1,29 @@
+.categories li{
+    cursor: pointer;
+    color: blue;
+    margin-top: 10px;
+}
+
+.categories{
+    margin-top: 30px;
+}
+.categories ul{
+    padding-left: 20px;
+}
+
+.categoriesMainDiv{
+    /* border: 1px solid black; */
+    width: 90%;
+    padding: 16px 17px;
+    height: 95%;
+    box-shadow: 2px 2px 10px rgb(240, 240, 240);
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+.BlogTable{
+    box-shadow: 0px 0px 10px rgb(240, 240, 240);
+    border-radius: 10px;
+    margin-top: 20px;
+    transition: 0.3s;
+}

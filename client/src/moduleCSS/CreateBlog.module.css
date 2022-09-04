@@ -1,0 +1,19 @@
+.blogForm input, .blogForm textarea, .blogForm select{
+    width: -webkit-fill-available;
+    border: none;
+    border-bottom: 1px solid rgb(210, 210, 210);
+    outline: none;
+    padding: 5px 10px;
+}
+.blogForm label{
+    width: -webkit-fill-available;
+    border: none;
+    outline: none;
+    padding: 5px 10px;
+}
+
+.formTable{
+    box-shadow: 2px 2px 10px rgb(240, 240, 240);
+    border-radius: 10px;
+    margin-top: 20px;
+}
